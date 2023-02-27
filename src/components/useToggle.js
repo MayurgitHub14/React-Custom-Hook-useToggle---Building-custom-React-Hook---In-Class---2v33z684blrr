@@ -8,7 +8,3 @@ const useToggle = (initialValue = false) => {
   return [state, handleState];
 }
 export default useToggle;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
